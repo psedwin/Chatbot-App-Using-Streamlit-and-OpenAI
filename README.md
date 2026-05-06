@@ -1,2 +1,15 @@
-# Chatbot-App-Using-Streamlit-and-OpenAI
-A simple AI chatbot built using Python that can interact with users through natural language. This project uses a virtual environment and runs locally.
+# AI Chatbot (Streamlit + OpenAI)
+
+## Features
+- Chat interface with history
+- API integration with LLM
+- Error handling
+- Clear chat functionality
+
+## Tech Stack
+- Python
+- Streamlit
+- OpenAI API
+
+## How it works
+User input → API request → AI response → stored in session state
